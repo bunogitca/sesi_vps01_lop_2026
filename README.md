@@ -42,3 +42,5 @@ void main(){
     getch();
 }
 ```
+
+![fluxogrma](./atendimento.png)
